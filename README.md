@@ -1,5 +1,7 @@
 # The-Universe-Adventure
-大二的計算機圖學課程寫的小遊戲，使用opengl實作。  
+計算機圖學課程使用OpenGL實作的小遊戲。
+
+## 開發環境和工具
 OS：Windows 10  
 IDE：Visual Studio 2015  
 glut-3.7.6  
